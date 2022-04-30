@@ -1,9 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Okatuna</h1>
-<h3 align="center">Okatuna :D , I'm From Indonesia</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Domaraa</h1>
+<h3 align="center">Bacot Dek.</h3>
 
-## 🚀 Languages and Tools:
+## 🚀 Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -29,16 +29,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/okatuna/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Okatuna streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Okatuna&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Domaraa/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Domaraa streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Domaraa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊Github Stats
 
   <br/>
-    <a href="https://github.com/okatuna/github-readme-stats"><img alt="Okatuna Github Stats" src="https://github-readme-stats.vercel.app/api?username=Okatuna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/okatuna/github-readme-stats"><img alt="Okatuna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okatuna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Domaraa/github-readme-stats"><img alt="Domaraa Github Stats" src="https://github-readme-stats.vercel.app/api?username=Domaraa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Domaraa/github-readme-stats"><img alt="Domaraa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domaraa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Okatuna/github-readme-activity-graph"><img alt="Okatuna Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Okatuna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Domaraa/github-readme-activity-graph"><img alt="Domaraa Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Domaraa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -55,6 +55,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Okatuna">
+    <img src="https://komarev.com/ghpvc/?username=Domaraa">
 </a>
-<a href="https://github.com/Okatuna?tab=followers"><img src="https://img.shields.io/github/followers/Okatuna?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Domaraa?tab=followers"><img src="https://img.shields.io/github/followers/Domaraa?label=Followers&style=social" alt="GitHub Badge"></a>
